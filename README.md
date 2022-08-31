@@ -58,3 +58,6 @@ The following image was a mockup from the client of the intended page viewing:
 # Credits
 * UW Coding Bootcamp resources
 * GitHub.com
+
+# License
+MIT © Krenbot
