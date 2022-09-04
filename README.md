@@ -1,6 +1,6 @@
 # Horiseon
 
-##Deployed Link
+## Deployed Link
 https://krenbot.github.io/Horiseon/
 
 ## Description
