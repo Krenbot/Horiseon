@@ -56,7 +56,6 @@ The following image was a mockup from the client of the intended page viewing:
 2. Open index.html in default browser
 
 # Credits
-* UW Coding Bootcamp resources
 * GitHub.com
 
 # License
