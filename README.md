@@ -1,5 +1,7 @@
 # Horiseon
 
+##Deployed Link
+https://krenbot.github.io/Horiseon/
 
 ## Description
 We were asked to work with existing code in order to better handle client-side site experience. CSS/HTML code redundancies were cleaned, broken links were reorganized, and semantic HTML elements were replaced. 
